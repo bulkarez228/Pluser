@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="250sp"
+    android:background="@drawable/dialog_bg">
+    <!--android:background="@drawable/new_station_dialog_corners"> -->
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:textSize="20sp"
+        android:text="@string/are_you_sure_student" />
+
+
+</RelativeLayout>
+
