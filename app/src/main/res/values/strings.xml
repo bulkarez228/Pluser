@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Плюсовик</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="default_button_label">OK</string>
+    <string name="title_activity_students">Ученики</string>
+    <string name="title_activity_classes">Классы</string>
+    <string name="title_activity_parallels">Параллели</string>
+    <string name="place_name_class">Введите название класса:</string>
+    <string name="place_name">Введите имя ученика:</string>
+    <string name="are_you_sure_class">Вы действительно хотите удалить класс?</string>
+    <string name="are_you_sure_student">Вы действительно хотите удалить ученика?</string>
+    <string name="you_sure_erase">Вы дейстивтельно хотите очистить баллы учеников?</string>
+    <string name="there_nothing_to_see">Здесь еще ничего нет.</string>
+    <string name="first_main">Приветствуем вас! \nПожалуйста, пройдите обучение.</string>
+    <string name="first_secondary">Нажмите на кнопку редактирования чтобы добавить новые классы.</string>
+    <string name="second">Нажмите на кнопку +, чтобы добавить поля для новых классов.</string>
+    <string name="third">Нажмите сюда, чтобы выйти из режима редактирования.</string>
+    <string name="fourth">Далее перейдите в класс для добавления учеников.</string>
+    <string name="fifth">Нажмите на кнопку редактирования чтобы добавить новых учеников.</string>
+    <string name="sixth">Нажмите на кнопку +, чтобы добавить поля для новых учеников.</string>
+    <string name="seventh">Нажмите сюда, чтобы выйти из режима редактирования.</string>
+    <string name="eights">Двойной тап по полю увеличит баллы ученика на один \nДолгий тап уменшит баллы ученика на один.</string>
+    <string name="ninth">Нажав сюда Вы увеличите баллы всем ученикам в этом классе на один.</string>
+    <string name="tenth">Эта кнопка сбросит баллы всех учеников в этом классе.</string>
+    <string name="eleventh">Нажмите на эту кнопку для сортировки учеников.</string>
+    <string name="tvelth">Нажав сюда вы измените цвет поля.</string>
+    <string name="thirteenth">Вот и все обучение \nПриятного пользования!</string>
+</resources>
